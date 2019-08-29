@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Shader Graphs_halo ecran
+  m_Shader: {fileID: -6465566751694194690, guid: d7f68135c76d9284497e7526419e7f0d,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_79B12AF9:
+        m_Texture: {fileID: 2800000, guid: 16721b922a2c95548a8a09d33f13de0d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_D805D424: 2
+    m_Colors:
+    - Color_4ECE5A89: {r: 2.1272717, g: 2.1272717, b: 2.1272717, a: 0.59607846}
+    - Vector2_5BCBF9E4: {r: 2, g: 1, b: 0, a: 0}
+    - _haloColor: {r: 1, g: 1, b: 1, a: 0.5019608}
